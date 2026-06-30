@@ -7,7 +7,7 @@ because it wasn't fully finished by minimalist design or by functionality, so Ve
 Greenpack is Minecraft resourcepack that I've made 3 years ago, and it was designed to "make world greener" (as I say today) or make it in a way that it meets requirements of "PvP system" but I abandoned it after realizing that it was simple texture modifing process in zip file but for that time, It was even officially added to TLauncher after I requested it. But over 3 years, Greenpack got around 429 downloads and since people download three zip files, I wanted to make this installer which gives any of those three files much easily to you as user, if you click on "Download GreenPack" button after selecting Greenpack from Version Box.
 
 # How was it made?
-Of course, it was made in Java, specifically Java Swing and Java AWT. <br<
+Of course, it was made in Java, specifically Java Swing and Java AWT. <br>
 Java Swing -> In-built framework for GUI Development with Components that come from JRE System Library. Part of Java Fundation Classes (JFC)<br>
 AWT -> Stands for "Abstract Window Toolkit" which is often paired with Swing. Is used for Layouts, Fonts, Colors and other additional classes.<br>
 File giving is made by help of Java NIO. (Jar holds all those 3 zip files and releases them into local directory where jar is running.)
