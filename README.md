@@ -13,6 +13,6 @@ AWT -> Stands for "Abstract Window Toolkit" which is often paired with Swing. Is
 File giving is made by help of Java NIO. (Jar holds all those 3 zip files and releases them into local directory where jar is running.)
 
 # What are requirements to run it?
- This time, You will be able to run Verdlet with basic JRE, as long as you have Latest Version of Oracle's Java installed. However, if you really want more safety with running it,
+ This time, You will be able to run Verdlet with basic JRE, **as long as you have Latest Version of Oracle's Java installed.** However, if you really want more safety with running it,
  you can setup latest JDK 25-26 with Evironment variables (Java Home), so you'll run without problems.
- Go to "Releases" section and select "Verdlet Jar File" and download it. You can run it By left clicking on it, or by Right clicking and Selecting "Open".
+ Go to "Releases" section and **select "Verdlet Jar File"** and download it. You can run it By left clicking on it, or by Right clicking and Selecting "Open".
