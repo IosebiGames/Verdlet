@@ -1,4 +1,5 @@
-## Verdlet is Java GUI-Based Installer application that runs on Desktop. the Name comes after combination of old name "Green" (Verd) and "let" (Small).
+# Verdlet is Java GUI-Based Installer application that runs on Desktop. 
+the Name comes after combination of old name "Green" (Verd) and "let" (Small).
 Reason behind this is that Following Java app is very small and has green background. Also, Verdlet is modified version of "GreenPack Installer" app that I've made, 
 because it wasn't fully finished by minimalist design or by functionality, so Verdlet is complete version of GreenPack Installer and it gives all 3 versions of GreenPack into zip file.
 
