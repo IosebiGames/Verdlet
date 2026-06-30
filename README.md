@@ -8,8 +8,10 @@ Greenpack is Minecraft resourcepack that I've made 3 years ago, and it was desig
 
 # How was it made?
 Of course, it was made in Java, specifically Java Swing and Java AWT. <br>
-Java Swing -> In-built framework for GUI Development with Components that come from JRE System Library. Part of Java Fundation Classes (JFC)<br>
-AWT -> Stands for "Abstract Window Toolkit" which is often paired with Swing. Is used for Layouts, Fonts, Colors and other additional classes.<br>
+
+Java Swing -> In-built framework for GUI Development with Components that come from JRE System Library. Part of Java Fundation Classes (JFC )<br>
+AWT -> Stands for "Abstract Window Toolkit" which is often paired with Swing. Is used for Layouts, Fonts, Colors and other additional classes. <br>
+
 File giving is made by help of Java NIO. (Jar holds all those 3 zip files and releases them into local directory where jar is running.)
 
 # What are requirements to run it?
